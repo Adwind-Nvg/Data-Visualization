@@ -5,6 +5,6 @@ In my four years of undergraduate life, I have traveled to many beautiful places
 This project aims to draw the places I have visited in the past four years as part of my memory.
 <hr>
 
-In this project, I mainly used the pychart package, however, the differences of versions of this package will results in many erros.
+In this project, I mainly used the pychart package, however, the differences of versions of this package will results in erros.
 
 This package is mainly used for Chinese map visualization
