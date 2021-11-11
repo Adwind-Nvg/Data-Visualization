@@ -1,10 +1,13 @@
-# Map-Visualization
+# Data Visualization (Python)
 
-In my four years of undergraduate life, I have traveled to many beautiful places. Then, unexpectedly, COVID-19 hit, as a COVID care volunteer, I got a chance to go to many different provinces in China. This experience allowed me to help those in the epidemic. At the same time, it also allowed me to see many things that I have never seen before.
+This project contains multiple small python data visualization files that I gathered from my last year's projects. (Sensitive data has been covered, here only shows random data)
 
-This project aims to draw the places I have visited in the past four years as part of my memory.
-<hr>
+Each visualization file in this repository is independent. Therefore, no specific order should be followed.
 
-In this project, I mainly used the pychart package, however, the differences of versions of this package will results in erros.
-
-This package is mainly used for Chinese map visualization
+This project contains following files (will updating): 
+1. README file
+2. Simple_Categorical_Heatmaps
+3. Dragon_3D
+4. Earth_Cities_3D
+5. Undergrad_Travel
+6. COVID_Volunteer
